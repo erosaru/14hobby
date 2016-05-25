@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+		<url>
+			<loc>http://localhost/duelmoniac/</loc>
+			<lastmod>2014-06-21</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>0.8</priority>
+		</url>
+
+		<url>
+			<loc>http://localhost/duelmoniac/suarateman</loc>
+			<lastmod>2014-06-21</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>0.8</priority>
+		</url>
+
+		<url>
+			<loc>http://localhost/duelmoniac/bursa</loc>
+			<lastmod>2014-06-21</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>0.8</priority>
+		</url>
+
+		<url>
+			<loc>http://localhost/duelmoniac/bursa-pre-order</loc>
+			<lastmod>2014-06-21</lastmod>
+			<changefreq>daily</changefreq>
+			<priority>0.8</priority>
+		</url>
+
+	</urlset>
+

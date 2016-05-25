@@ -1,0 +1,1 @@
+<div class="col-md-12">	<a class="btn btn-success btn-block" style="font-size:40px;" href="<?= base_url()?>how-to-buy"><b>Cara Membeli Barang</b></a>	<a class="btn btn-primary btn-block" href="<?= base_url()?>support"><b>Live Supports</b></a></div>
